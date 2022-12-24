@@ -13,8 +13,6 @@ If this bot does not work please dm percs#1111 and I will try to assist you.
 - This is a bot that is not affiliated with any of the Discord or Discord Inc. teams.
 - This was made for educational purposes. It is not meant to be used for malicious purposes.
 - Any use of this bot is at your own risk. I am not responsible for any damage that may occur.
-- If this bot does not work please dm percs#1111 and I will try to assist you.
-
 
 
 ## Setup
